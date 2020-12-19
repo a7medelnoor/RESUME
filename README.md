@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elnoor</h1>
-<h3 align="center">A passionate software developer / engineer from Sudan</h3>
+<h3 align="center">I am a software developer / engineer from Sudan. I live in khartoum and currently working at Interface Co, Ltd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medelnoor&label=Profile%20views&color=0e75b6&style=flat" alt="a7medelnoor" /> </p>
+
+- 🔭 I’m currently working on **Interface Co, Ltd**
 
 - 📫 How to reach me **ahdnoor4@gmail.com**
 
