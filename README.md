@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elnoor</h1>
-<h3 align="center">I am a software developer / engineer from Sudan. living in khartoum and currently working as a full time software engineer developing mobile apps using Java and Kotlin programming language.</h3>
+<h3 align="center">I am a software developer/engineer from Sudan. living in Khartoum and currently working as a full-time software engineer developing mobile apps using Java and Kotlin programming language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medelnoor&label=Profile%20views&color=0e75b6&style=flat" alt="a7medelnoor" /> </p>
 
